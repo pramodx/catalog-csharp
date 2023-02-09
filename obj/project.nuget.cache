@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "r+GjudEcFRznFmS6EFD2jWwL4Uu2oAnH98cBHqCQrsz2vXLv+WWOTgvsYtqPCXVSTU94Pm10cZukJDBaY55TAQ==",
+  "success": true,
+  "projectFilePath": "/Users/pramodx/Projects/Catalog/Catalog.csproj",
+  "expectedPackageFiles": [
+    "/Users/pramodx/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/Users/pramodx/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/Users/pramodx/.nuget/packages/swashbuckle.aspnetcore/5.6.3/swashbuckle.aspnetcore.5.6.3.nupkg.sha512",
+    "/Users/pramodx/.nuget/packages/swashbuckle.aspnetcore.swagger/5.6.3/swashbuckle.aspnetcore.swagger.5.6.3.nupkg.sha512",
+    "/Users/pramodx/.nuget/packages/swashbuckle.aspnetcore.swaggergen/5.6.3/swashbuckle.aspnetcore.swaggergen.5.6.3.nupkg.sha512",
+    "/Users/pramodx/.nuget/packages/swashbuckle.aspnetcore.swaggerui/5.6.3/swashbuckle.aspnetcore.swaggerui.5.6.3.nupkg.sha512"
+  ],
+  "logs": []
+}
