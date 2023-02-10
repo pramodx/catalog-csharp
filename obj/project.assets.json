@@ -193,19 +193,19 @@
     ]
   },
   "packageFolders": {
-    "/Users/pramodx/.nuget/packages/": {}
+    "/Users/pramodnbuildxact.com/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/pramodx/Projects/Catalog/Catalog.csproj",
+      "projectUniqueName": "/Users/pramodnbuildxact.com/Projects/Catalog/Catalog.csproj",
       "projectName": "Catalog",
-      "projectPath": "/Users/pramodx/Projects/Catalog/Catalog.csproj",
-      "packagesPath": "/Users/pramodx/.nuget/packages/",
-      "outputPath": "/Users/pramodx/Projects/Catalog/obj/",
+      "projectPath": "/Users/pramodnbuildxact.com/Projects/Catalog/Catalog.csproj",
+      "packagesPath": "/Users/pramodnbuildxact.com/.nuget/packages/",
+      "outputPath": "/Users/pramodnbuildxact.com/Projects/Catalog/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/pramodx/.nuget/NuGet/NuGet.Config"
+        "/Users/pramodnbuildxact.com/.nuget/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net5.0"
